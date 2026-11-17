@@ -5,7 +5,7 @@
 `rmegb` is a small C99 driver for **RobustMotion RM-EGB** compact electric
 grippers controlled over **Modbus RTU (RS-485)**. It runs on **Windows 10/11**
 and **Linux** (macOS should also work) through a USB-RS485 adapter such as the
-DSD TECH [SH-U11F](https://www.cncwiki.org/images/b/b6/DSD_Tech_SH-U11F_User_Guide.pdf), and can be used directly from C/C++ or built as a shared
+[DSD TECH SH-U11F](https://www.cncwiki.org/images/b/b6/DSD_Tech_SH-U11F_User_Guide.pdf), and can be used directly from C/C++ or built as a shared
 library to be used from Python and other languages.
 
 The register map and frame format follow the
