@@ -270,7 +270,29 @@ Manufacturer documentation:
 These documents are the property of their respective manufacturers and are
 not covered by the MIT License below.
 
-## 5. Licensing
+## 5. Disclaimer
+
+This software was generated and tested with Claude Code (Anthropic), based on
+the information in the [RobustMotion RM-EGB user manual](https://www.pololu.com/file/0J2112/RobustMotion%20RM-EGB%20gripper%20user%20manual.pdf),
+and has been reviewed by a human. It has not been independently validated on
+every hardware and software configuration.
+
+The software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and non-infringement. In no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, including damage to equipment or property, injury, loss of data
+or production, or any other loss or inconvenience, whether in an action of
+contract, tort or otherwise, arising from, out of or in connection with the
+software or its use.
+
+This software is not a safety-rated component. The user is solely
+responsible for verifying its correct operation in the target system and for
+providing appropriate safeguards (emergency stop, guarding, safe-torque-off
+and the like) in accordance with the safety standards that apply to the
+installation.
+
+## 6. Licensing
 
 This project is released under the MIT License:
 
@@ -298,7 +320,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 6. Copyright
+## 7. Copyright
 
 Copyright © 2026 Oleksandr Matiash. All rights reserved except as granted by
 the MIT License above.
